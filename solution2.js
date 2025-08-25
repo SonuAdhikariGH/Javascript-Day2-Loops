@@ -1,0 +1,1 @@
+// Writing the snippet as usual and doing most;y the same thing as for loops but with a different tweak
